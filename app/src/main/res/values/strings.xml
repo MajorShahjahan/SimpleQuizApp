@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    
+    <string name="correct_text">Correct!</string>
+    <string name="incorrect_text">Incorrect</string>
+    <string name="correct_score_text">0/10</string>
+    <string name="correct_toast_message">Great!</string>
+    <string name="incorrect_toas_message">Not Good</string>
+
+    <string name="q1">Honeybees navigate by using the Sun as a compass</string>
+    <string name="q2">Hawaii is the only U.S. state never to report a temperature of zero</string>
+    <string name="q3">Texas is the only state that permits residents to cast absentee ballots from space</string>
+    <string name="q4">The world\'s biggest pyramid is not in Egypt, but in Mexico</string>
+    <string name="q5">In 1634, Tulip bulbs were a form of currency in Holland</string>
+    <string name="q6">A rainbow can only be seen in the morning or late afternoon</string>
+    <string name="q7">A male kangaroo is called a Boomer</string>
+    <string name="q8">If you doubled one penny every day for 30 days, you would have $5,368,709.12</string>
+    <string name="q9">The only one-syllabled U.S. state is Maine</string>
+    <string name="q10">A Galapagos tortoise can take up to three weeks to digest a meal</string>
+
+
+</resources>
